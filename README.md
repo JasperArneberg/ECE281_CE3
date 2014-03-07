@@ -1,6 +1,6 @@
 ECE281_CE3
 ==========
-ECE 281 Computer Exercise 3: Advanced Elevator Controller
+######ECE 281 Computer Exercise 3: Advanced Elevator Controller
 
 C3C Jasper Arneberg  
 M6A ECE 281  
