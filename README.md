@@ -7,16 +7,14 @@ M6A ECE 281
 Dr. Neebel  
 
 ## Moore Machine
-
 #### Waveform Output
 Here is the screenshot of the waveform output of the Moore Machine.
 ![alt text](https://github.com/JasperArneberg/ECE281_CE3/blob/master/moore_waveform.png?raw=true "Moore Machine waveform screenshot")
 
 #### Explanation of Testbench Results
-The Moore Machine was verified to behave correctly by inspection. Just as planned, the floor advances by one every two clock cycles until it reaches the top. Then, it descends one floor every clock cycle until it meets the bottom.
+The Moore Machine was verified to behave correctly by inspection. Just as planned, the floor advances by one every two clock cycles until it reaches the top. Then, it descends one floor every clock cycle until it meets the bottom. At the very beginning, the state was reset to the first floor.
 
 ## Mealy Machine
-
 #### Waveform Output
 Here is the screenshot of the waveform output of the Mealy Machine.
 ![alt text](https://github.com/JasperArneberg/ECE281_CE3/blob/master/mealy_waveform.png?raw=true "Mealy Machine waveform screenshot")
